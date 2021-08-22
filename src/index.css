@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,200;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@1,600&family=Russo+One&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.fade-enter {
+  opacity: 0.01;
+}
+
+.fade-enter.fade-enter-active {
+  opacity: 1;
+  transition: opacity 300ms ease-in;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+img.header--logo {
+  max-width: 50px;
+  /* flex: 1; */
+  align-self: flex-start;
+  justify-items: flex-start;
+}
+.row {
+  width: 100%;
+}
+
+.navbar {
+
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+.founder {
+  /* background: #DDEAF8; */
+    padding: 20px;
+    border-radius: 10px;
+}
+.products {
+  /* background:#0e8bb5; */
+    padding: 20px;
+    border-radius: 10px;
+}
+.home h1 {
+  font-family: 'Russo One', sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
+  text-align: left;
+  padding-left: 39px;
+  font-size: 40px;
+  color: #fff;
+}
+.video-container.home {
+  justify-content: center;
+  align-items: flex-start;
+}
+.home p {
+  font-family: 'Public Sans', sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
+}
+.home {
+  background: #d3d2d9;
+  padding: 20px;
+  border-radius: 10px;
+}
+.home div.text {
+  clip-path: polygon(5% 0%, 100% 0%, 95% 65%, 0 65%);
+  background-color: #fff;
+  padding:10px 10px 20px 10px
+}
+
+.about {
+  padding: 20px;
+  border-radius: 10px;
+}
+.mission {
+  /* background: #fca2ef; */
+  padding: 20px;
+  border-radius: 10px;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #6a5ba8;
+  min-height: 100vh;
+
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+    font-size: 26px !important;
+}
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  font-size: 46px !important;
+}
+
+/* .founder h1, .founder p, .products p, .products h1 {
+  text-shadow: 1px 1px #fff;
+
+}
+.about h1, .about p {
+  text-shadow: 1px 1px #000;
+  color: #fff;
+
+
+} */
+@media(max-width: 904px) {
+.home div.text {
+  padding: 10px 10px 30px 10px;
+}
+}
+@media(max-width: 551px) {
+  .home div.text {
+    padding: 10px 10px 50px 10px;
+  }
+  }
+  @media(max-width: 531px) {
+    .home h1 br {
+      display:none;
+        }
+    }
+
+
