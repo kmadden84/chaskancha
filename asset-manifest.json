@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chaskancha/static/css/main.7d6233ec.chunk.css",
+    "main.css": "/chaskancha/static/css/main.4c47c36e.chunk.css",
     "main.js": "/chaskancha/static/js/main.6a0da0fe.chunk.js",
     "main.js.map": "/chaskancha/static/js/main.6a0da0fe.chunk.js.map",
     "runtime-main.js": "/chaskancha/static/js/runtime-main.fb87d2ca.js",
@@ -12,7 +12,7 @@
     "static/js/3.a783d0b7.chunk.js.map": "/chaskancha/static/js/3.a783d0b7.chunk.js.map",
     "index.html": "/chaskancha/index.html",
     "static/css/2.533ff147.chunk.css.map": "/chaskancha/static/css/2.533ff147.chunk.css.map",
-    "static/css/main.7d6233ec.chunk.css.map": "/chaskancha/static/css/main.7d6233ec.chunk.css.map",
+    "static/css/main.4c47c36e.chunk.css.map": "/chaskancha/static/css/main.4c47c36e.chunk.css.map",
     "static/js/2.f829a80b.chunk.js.LICENSE.txt": "/chaskancha/static/js/2.f829a80b.chunk.js.LICENSE.txt",
     "static/media/2022.8fb6536d.jpg": "/chaskancha/static/media/2022.8fb6536d.jpg",
     "static/media/Angie.f85d013f.jpg": "/chaskancha/static/media/Angie.f85d013f.jpg",
@@ -66,7 +66,7 @@
     "static/js/runtime-main.fb87d2ca.js",
     "static/css/2.533ff147.chunk.css",
     "static/js/2.f829a80b.chunk.js",
-    "static/css/main.7d6233ec.chunk.css",
+    "static/css/main.4c47c36e.chunk.css",
     "static/js/main.6a0da0fe.chunk.js"
   ]
 }
