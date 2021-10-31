@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fde1e43.chunk.css",
+    "main.css": "/static/css/main.afbc1df9.chunk.css",
     "main.js": "/static/js/main.6a0da0fe.chunk.js",
     "main.js.map": "/static/js/main.6a0da0fe.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fb87d2ca.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fb87d2ca.js.map",
-    "static/css/2.533ff147.chunk.css": "/static/css/2.533ff147.chunk.css",
+    "runtime-main.js": "/static/js/runtime-main.5743821c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5743821c.js.map",
+    "static/css/2.16cea7cf.chunk.css": "/static/css/2.16cea7cf.chunk.css",
     "static/js/2.f829a80b.chunk.js": "/static/js/2.f829a80b.chunk.js",
     "static/js/2.f829a80b.chunk.js.map": "/static/js/2.f829a80b.chunk.js.map",
     "static/js/3.a783d0b7.chunk.js": "/static/js/3.a783d0b7.chunk.js",
     "static/js/3.a783d0b7.chunk.js.map": "/static/js/3.a783d0b7.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.533ff147.chunk.css.map": "/static/css/2.533ff147.chunk.css.map",
-    "static/css/main.9fde1e43.chunk.css.map": "/static/css/main.9fde1e43.chunk.css.map",
+    "static/css/2.16cea7cf.chunk.css.map": "/static/css/2.16cea7cf.chunk.css.map",
+    "static/css/main.afbc1df9.chunk.css.map": "/static/css/main.afbc1df9.chunk.css.map",
     "static/js/2.f829a80b.chunk.js.LICENSE.txt": "/static/js/2.f829a80b.chunk.js.LICENSE.txt",
     "static/media/2022.8fb6536d.jpg": "/static/media/2022.8fb6536d.jpg",
     "static/media/Angie.f85d013f.jpg": "/static/media/Angie.f85d013f.jpg",
@@ -32,9 +32,6 @@
     "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
     "static/media/mission-poster.a84ef3fb.jpg": "/static/media/mission-poster.a84ef3fb.jpg",
     "static/media/passion.c956f3c9.jpg": "/static/media/passion.c956f3c9.jpg",
-    "/chaskancha/static/media/contact-us.e6ee3dcc.jpg": "/static/media/contact-us.e6ee3dcc.jpg",
-"/chaskancha/static/media/about-us.a6757f05.jpg": "/static/media/about-us.a6757f05.jpg",
-"/chaskancha/static/media/misson-bg.10fad021.jpg": "/static/media/misson-bg.10fad021.jpg",
     "static/media/product1.12e04948.jpg": "/static/media/product1.12e04948.jpg",
     "static/media/product2.0255112c.jpg": "/static/media/product2.0255112c.jpg",
     "static/media/product3.040fe59e.jpg": "/static/media/product3.040fe59e.jpg",
@@ -66,10 +63,10 @@
     "static/media/warehouse-video.c4274d9a.mp4": "/static/media/warehouse-video.c4274d9a.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb87d2ca.js",
-    "static/css/2.533ff147.chunk.css",
+    "static/js/runtime-main.5743821c.js",
+    "static/css/2.16cea7cf.chunk.css",
     "static/js/2.f829a80b.chunk.js",
-    "static/css/main.9fde1e43.chunk.css",
+    "static/css/main.afbc1df9.chunk.css",
     "static/js/main.6a0da0fe.chunk.js"
   ]
 }
